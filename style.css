@@ -1,0 +1,35 @@
+body{
+  font-size: 2em;
+}
+
+#result{
+  margin: 10px;
+}
+
+#path{
+  display: inline-block;
+}
+
+#path>div{
+  display: flex;
+}
+
+.container{
+  text-align: center;
+}
+
+p{
+  margin: 1rem;
+}
+
+form{
+  margin-left: 118px; 
+}
+
+span{
+  margin-right: 8px;
+}
+
+.path{
+  color:red;
+}
