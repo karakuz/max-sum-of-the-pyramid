@@ -16,8 +16,11 @@ As you can see this has several paths that fits the rule of NOT PRIME NUMBERS; 1
 
 
 215
+
 193 124
+
 117 237 442
+
 218 935 347 235
 320 804 522 417 345
 229 601 723 835 133 124
