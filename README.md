@@ -13,7 +13,7 @@ According to above rules the maximum sum of the numbers from top to bottom in be
 
 As you can see this has several paths that fits the rule of NOT PRIME NUMBERS; 1>8>6>9, 1>4>6>9, 1>4>9>9
 1 + 8 + 6 + 9 = 24.  As you see 1, 8, 6, 9 are all NOT PRIME NUMBERS and walking over these yields the maximum sum.<br/>
-
+```
 215<br/>
 193 124<br/>
 117 237 442<br/>
@@ -29,3 +29,4 @@ As you can see this has several paths that fits the rule of NOT PRIME NUMBERS; 1
 131 171 522 137 217 224 291 413 528 520 227 229 928<br/>
 223 626 034 683 839 053 627 310 713 999 629 817 410 121<br/>
 924 622 911 233 325 139 721 218 253 223 107 233 230 124 233
+```
